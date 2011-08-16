@@ -1,0 +1,4 @@
+A very inefficient neural net, written in Erlang. Build and run:
+
+$ make
+$ ./run.erl
